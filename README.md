@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorBazilio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBazilio&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<div>
+<div  align="center">
   
 ![Snake animation](https://github.com/VitorBazilio/VitorBazilio/blob/output/github-contribution-grid-snake.svg)
 
