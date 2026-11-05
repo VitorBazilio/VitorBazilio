@@ -86,8 +86,8 @@ Games sempre fizeram parte da minha história, tanto que me formei em **Jogos Di
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VitorBazilio&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0f12&title_color=FF8C00&icon_color=FF8C00&text_color=C9D1D9" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBazilio&layout=compact&langs_count=7&hide_border=true&bg_color=0f0f12&title_color=FF8C00&text_color=C9D1D9" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorBazilio&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorBazilio&theme=github_dark" alt="Linguagens mais usadas" />
 </div>
 
 <div align="center">
