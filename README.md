@@ -78,7 +78,6 @@ Games sempre fizeram parte da minha história, tanto que me formei em **Jogos Di
 | ⚡ [**Time dos Pokémons**](https://github.com/VitorBazilio/PokedexDevWeek) · [ver online](https://vitorbazilio.github.io/PokedexDevWeek/) | Página interativa que troca imagem, cores e informações do card via DOM (Dev Week da Dev em Dobro) | HTML · CSS · JavaScript |
 | 📕 [**Pokédex API**](https://github.com/VitorBazilio/PokedexLink) | Pokédex que consome a PokéAPI no back-end, com visual inspirado em Pokémon Sword & Shield | PHP · Composer · CSS |
 | 📰 [**DoppelNews**](https://github.com/VitorBazilio/DoppelNews) | Blog de RPG com painel administrativo, CRUD de publicações e banco SQL | PHP · SQL · JavaScript |
-| ⚛️ [**Fundamentos React**](https://github.com/VitorBazilio/fundamentos-react) | Estudos de componentes, props, estado e Styled Components | React · JSX |
 | 🕹️ **Glass Amazonya** | Jogo de plataforma em pixel art para PC | C# · Unity · Photoshop |
 
 ---
