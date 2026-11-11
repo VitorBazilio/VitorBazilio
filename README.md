@@ -44,8 +44,8 @@ Comecei a programar por curiosidade e transformei isso em carreira. Construo apl
 
 Games sempre fizeram parte da minha história, tanto que me formei em **Jogos Digitais**.
 
-- 🕹️ Desenvolvi o **Glass Amazonya**, um jogo de plataforma em pixel art para PC feito na **Unity com C#** (TCC da graduação)
-- 🐉 Criei o **DoppelNews**, um blog de RPG com painel administrativo (TCC do curso técnico)
+- 🕹️ Desenvolvi o [**Glass Amazonya**](https://github.com/VitorBazilio/Glass-Amazonya), um jogo 2D em pixel art ambientado na Amazônia, feito na **Unity com C#** (TCC da graduação)
+- 🐉 Criei o [**Doppel**](https://github.com/VitorBazilio/DoppelNews), portal geek com salas de RPG de mesa e fichas de D&D (nasceu no TCC do curso técnico)
 - 📺 Faço lives na Twitch: [**twitch.tv/linkmccall**](https://www.twitch.tv/linkmccall)
 
 ---
@@ -75,10 +75,10 @@ Games sempre fizeram parte da minha história, tanto que me formei em **Jogos Di
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | 🌐 [**Portfólio**](https://github.com/VitorBazilio/Portfolio) · [ver online](https://vitorbazilio.github.io/Portfolio/) | Site responsivo e acessível, sem frameworks: ES Modules, tema claro/escuro e integração com a API do GitHub | HTML · CSS · JavaScript |
-| ⚡ [**Time dos Pokémons**](https://github.com/VitorBazilio/PokedexDevWeek) · [ver online](https://vitorbazilio.github.io/PokedexDevWeek/) | Página interativa que troca imagem, cores e informações do card via DOM (Dev Week da Dev em Dobro) | HTML · CSS · JavaScript |
-| 📕 [**Pokédex API**](https://github.com/VitorBazilio/PokedexLink) | Pokédex que consome a PokéAPI no back-end, com visual inspirado em Pokémon Sword & Shield | PHP · Composer · CSS |
-| 📰 [**DoppelNews**](https://github.com/VitorBazilio/DoppelNews) | Blog de RPG com painel administrativo, CRUD de publicações e banco SQL | PHP · SQL · JavaScript |
-| 🕹️ **Glass Amazonya** | Jogo de plataforma em pixel art para PC | C# · Unity · Photoshop |
+| ⚡ [**Pokédex de Galar**](https://github.com/VitorBazilio/PokedexDevWeek) · [ver online](https://pokedexsword-front.vercel.app) | Pokédex interativa inspirada na interface de Pokémon Sword & Shield, com troca de versão Sword/Shield e contadores de vistos e capturados (nasceu na Dev Week da Dev em Dobro) | HTML · CSS · JavaScript |
+| 📕 [**PokedexLink**](https://github.com/VitorBazilio/PokedexLink) · [ver online](https://pokedexlink-five.vercel.app/) | Pokédex que consome a PokéAPI no back-end, com visual inspirado em Pokémon Sword & Shield | PHP · Composer · JavaScript |
+| 📰 [**Doppel (TCC original)**](https://github.com/VitorBazilio/DoppelNews) · [ver online](https://doppelrpold.vercel.app/) | Portal de notícias geek e plataforma de RPG de mesa: salas com chat e dados, fichas de D&D 5e, ranking, livros-jogo e painel administrativo | PHP · SQL · JavaScript |
+| 🕹️ [**Glass Amazonya**](https://github.com/VitorBazilio/Glass-Amazonya) | Jogo 2D ambientado na Amazônia: uma arara-vermelha atravessa 20 fases fugindo de queimadas e coletando frutos, com save e suporte a PT/EN (TCC da graduação) | C# · Unity · Photoshop |
 
 ---
 
@@ -96,12 +96,6 @@ Games sempre fizeram parte da minha história, tanto que me formei em **Jogos Di
 ---
 
 <div align="center">
-
-### 🐍 Cobrinha das contribuições
-
-<img src="https://raw.githubusercontent.com/VitorBazilio/VitorBazilio/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo as contribuições" />
-
-<br/>
 
 **Tem uma vaga ou um projeto em mente? [Me chame!](mailto:sir.vitor.bazilio@gmail.com)** 🚀
 
